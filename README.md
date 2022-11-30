@@ -1,2 +1,9 @@
-# ero-page
-html Error Page
+# 껍질-미리깐 오류창  
+## 마참내!
+html, css, 실짝의 js를 사용해
+## 시간절약
+html Error Page가 함깨!  
+## 즐겁다!
+보는 눈이 즐겁다!
+## 손도 깔끔
+..?
